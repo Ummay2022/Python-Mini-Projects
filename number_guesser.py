@@ -13,7 +13,6 @@ else:
     quit()
       
 random_number =random.randint(0,top_of_range)
-
 guesses = 0
 
 while True:
