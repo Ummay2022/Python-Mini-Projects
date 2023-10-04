@@ -2,3 +2,4 @@
 Small projects to get skilled in Python.
 the first project will be a Quiz game.
 The second project is a number guessing game
+The third project is a rock paper scissors game
