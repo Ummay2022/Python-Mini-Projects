@@ -16,3 +16,5 @@ class Process:
 
     def get_priority(self) -> int:
         return self.priority
+
+        
